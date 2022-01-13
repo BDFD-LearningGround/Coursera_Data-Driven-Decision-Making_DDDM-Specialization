@@ -26,15 +26,15 @@ This specialization explains why it is important to leverage data when contempla
 
 ## Applied Learning Project
 
-**Tools:** Jupyter / JupyterLab, GitHub,
+**Tools:**  
 
-**Libraries:** Pandas, NumPy
+**Libraries:**  
 
-**Projects:** ABC Project Name
+**Projects:**  
 
 ## Course Certificate
 
-Total Hours: ~13 Hrs
+Total Hours: ~36 Hrs
 
 <div align="center">
 
