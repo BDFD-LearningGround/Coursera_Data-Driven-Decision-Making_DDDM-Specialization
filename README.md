@@ -10,7 +10,7 @@
 
 About This workshop and the materials in this repo are for anyone who is interested in working with Data Science to produce high quality, working style! Check out follow course link if you think it is interested.
 
-**Course Link:** [IBM Data Science Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-science)
+**Course Link:** [Data Driven Decision Making (DDDM Specialization)](https://www.coursera.org/professional-certificates/ibm-data-science)
 
 ## Course Learn Path
 
