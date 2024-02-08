@@ -1,7 +1,7 @@
 <a href="https://github.com/bdfd"><img src="https://img.shields.io/github/followers/bdfd?label=Follow%20Me&logo=github" alt="GitHub Followers" /></a>
-![ViewCount](https://views.whatilearened.today/views/github/BDFD-LearningGround/Data-Driven-Decision-Making.svg?cache=remove)
-![GitHub top language](https://img.shields.io/github/languages/top/BDFD-LearningGround/Data-Driven-Decision-Making?style=flat)
-![GitHub language count](https://img.shields.io/github/languages/count/BDFD-LearningGround/Data-Driven-Decision-Making?style=flat)
+![ViewCount](https://views.whatilearened.today/views/github/BDFD-LearningGround/Coursera_Data-Driven-Decision-Making_DDDM-Specialization.svg?cache=remove)
+![GitHub top language](https://img.shields.io/github/languages/top/BDFD-LearningGround/Coursera_Data-Driven-Decision-Making_DDDM-Specialization?style=flat)
+![GitHub language count](https://img.shields.io/github/languages/count/BDFD-LearningGround/Coursera_Data-Driven-Decision-Making_DDDM-Specialization?style=flat)
 <img height=20 src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/7.Color-Icon/Status/Finish.svg" alt="bdfd" />
 
 # <a href="https://github.com/bdfd"><img height=40 src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/4.Stamp/BDFD_Stamp.png" alt="GitHub Followers" /></a> Data-Driven-Decision-Making DDDM Specialization(Coursera)
