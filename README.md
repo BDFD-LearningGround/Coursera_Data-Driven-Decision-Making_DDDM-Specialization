@@ -34,7 +34,7 @@ This specialization explains why it is important to leverage data when contempla
 
 ## Course Certificate
 
-Total Hours: ~36 Hrs
+Total Hours: ~30 Hrs
 
 <div align="center">
 
